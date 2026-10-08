@@ -1,5 +1,5 @@
 # [FR] Bonjour ! Je m'appelle Ny Haja !
-Étudiant en Licence Informatique (L3) à  bientôt en Master *Développement et Architecture de Logiciels et Applications Informatiques*.
+Étudiant Master *Développement et Architecture de Logiciels et Applications Informatiques*.
 Passionné par le développement, l'architecture réseau, le DevOps et le Cloud.
 # 💻 Les technologies que je sais utiliser :
 
@@ -26,7 +26,7 @@ Passionné par le développement, l'architecture réseau, le DevOps et le Cloud.
 - **MiniVilles** — Jeu de plateau multijoueur : serveur Godot/C#, API Flask et MySQL
 
 # [ENG] Hello! I'm Ny Haja! 👋
-Computer Science student (3rd year Bachelor) , soon starting a Master's in *Software & Application Architecture and Development*.
+Computer Science student Master's in *Software & Application Architecture and Development*.
 Passionate about software development, network architecture, DevOps and Cloud.
 
 # 💻 Technologies I Use:
